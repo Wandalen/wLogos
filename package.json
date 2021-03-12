@@ -1,6 +1,6 @@
 {
   "name": "wlogos",
-  "version": "0.2.53",
+  "version": "0.2.54",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,11 +21,11 @@
     "url": "https://github.com/Wandalen/wLogos/issues"
   },
   "dependencies": {
-    "wTools": "alpha"
+    "wTools": "gamma"
   },
   "devDependencies": {
     "eslint": "7.1.0",
-    "wTesting": "alpha",
+    "wTesting": "gamma",
     "wlogos": "file:."
   },
   "keywords": [
