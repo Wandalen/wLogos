@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: 8c3ac6096f7e299a77025aef6703c8cb
         size: 4713
-      wLogos.out.will.yml:
-        hash: 5c47d46d66d6c5963de2f5a353455e40
-        size: 37189
+      wLogos.out.will.yml: *ref_0
